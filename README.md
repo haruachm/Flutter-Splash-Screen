@@ -1,4 +1,4 @@
-# 카카오톡 로딩바 스플래시
+# Kakaotack Loading Bar Splash
 
 ![카카오톡 스플래쉬](https://user-images.githubusercontent.com/85959639/216816259-99657596-ea6d-4a38-adab-aef8f3276d4d.gif)
 
